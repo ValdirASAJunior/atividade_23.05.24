@@ -1,0 +1,17 @@
+button {
+    border: none;
+    border-radius: 5px;
+    background-color: rgb(45, 255, 73);
+    height: 30px;
+    margin-right: 10px;
+    transition: background-color ease 0.3s;
+}
+
+button:hover {
+    background-color: rgb(13, 221, 41);
+    scale: 1.05;
+}
+
+div {
+    text-align: center;
+}
